@@ -1,0 +1,24 @@
+.editor-textBold {
+    font-weight: bold;
+  }
+  
+  .editor-textItalic {
+    font-style: italic;
+  }
+  
+  .editor-textUnderline {
+    text-decoration: underline;
+  }
+  
+  .editor-textStrikethrough {
+    text-decoration: line-through;
+  }
+  
+  .editor-textUnderlineStrikethrough {
+    text-decoration: underline line-through;
+  }
+  
+  .editor-link {
+    color: var(--link-color, white);
+  }
+  
